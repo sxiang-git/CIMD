@@ -19,3 +19,5 @@ It is based on the version of June 2025. This document includes:
    4) Security Architecture Views
    6) SBOM, tool, vulnerabilities
    7) Cybersecurity event handling
+   8) Cybresecurity User Manual
+-- Work product premarket submission (An internet-connected PoC Diagnosis Instrument with clearance of FDA)
