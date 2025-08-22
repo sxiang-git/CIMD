@@ -14,9 +14,8 @@ It is based on the version of June 2025. This document includes:
       - Threat scenario analysis and exploitability analysis
       - Vulnerability, attack path and exploitability analysis
       - Impact and rating
-      - Risk value determination
-      - Risk treatment determination
-      - Cybersecurity controls allocation for the respective risk identified
+      - Risk value decision and treatment determination
+      - Cybersecurity controls allocation for the respective risks identified
    4) Security Architecture Views
-   5) 
-   6) SBOM
+   6) SBOM, tool, vulnerabilities
+   7) Cybersecurity event handling
