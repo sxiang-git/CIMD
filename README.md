@@ -17,6 +17,7 @@ It is based on the version of June 2025. This document includes:
       - Risk value decision and treatment determination
       - Cybersecurity controls allocation for the respective risks identified
    4) Security Architecture Views
+   5) Security Design Principles 
    6) SBOM, tool, vulnerabilities
    7) Cybersecurity event handling
    8) Cybresecurity User Manual
