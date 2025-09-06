@@ -1,21 +1,6 @@
-# CIMD
-Project "CIMD Explained", e.g. explanation for "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions", provides an structured process to explain and achieve the guides and requirements by FDA.
-
-It is based on the version of June 2025. This document includes:
--- Guide and Submission Requirements Explaination
-   1) TPLC
-   2) SPDF
---- Work intructions and templates
-   1) Identify the cybersecurity objectives of the ToE (Target of Evaluation)
-      - Framework and approach
-      - Preliminary architecture 
-   3) Threat Analysis and Risk Assessment on the ToE
-      - Threat modeling and threat analysis
-      - Threat scenario analysis and exploitability analysis
-      - Vulnerability, attack path and exploitability analysis
-      - Impact and rating
-      - Risk value decision and treatment determination
-      - Cybersecurity controls allocation for the respective risks identified
-   4) Security Architecture Views
-   6) SBOM, tool, vulnerabilities
-   7) Cybersecurity event handling
+About project CIMD Explained-"Cybersecurity in Medical Device Explained"
+I once worked as a principal cybersecurity engineer and a principal software engineer on medical devices which were submitted for 510(k) clearance and PMA clearance with success, including:
+	Point-of-Care Instrument
+	Implantable-Pulse-Generator (IPG) Device 
+	Obstructive Sleep Apnea (OSA) Device
+Through this open-source project, I'd like to share my experience of fulfilling the requirements by "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions, Guidance for Industry and Food and Drug Administration Staff"
