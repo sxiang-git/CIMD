@@ -1,5 +1,5 @@
 # CIMD
-Project "CIMD Explained", e.g. explaination for "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions", provides an structured process to explain and achieve the guides and requirements by FDA.
+Project "CIMD Explained", e.g. explanation for "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions", provides an structured process to explain and achieve the guides and requirements by FDA.
 
 It is based on the version of June 2025. This document includes:
 -- Guide and Submission Requirements Explaination
