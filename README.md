@@ -8,5 +8,5 @@ I once worked as a principal cybersecurity engineer and a principal software eng
 
 -- Obstructive Sleep Apnea (OSA) Device
 
-Through this open-source project, I'd like to share my experience of fulfilling the requirements by "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions, Guidance for Industry and Food and Drug Administration Staff". Work instructions and example are provided in the process.
+Through this open-source project, I'd like to share my experience of fulfilling the requirements by "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions, Guidance for Industry and Food and Drug Administration Staff". Work instructions, templated and example are provided in the project.
 
